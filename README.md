@@ -55,6 +55,7 @@ It demonstrates core database concepts such as normalization, constraints, trigg
 
 
 \## 📊 Entity Relationship (ER) Diagram
+![ER Diagram](assets/er_diagram.png)
 
 
 
