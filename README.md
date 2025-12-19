@@ -58,7 +58,6 @@ It demonstrates core database concepts such as normalization, constraints, trigg
 
 
 
-```mermaid
 
 erDiagram
 
